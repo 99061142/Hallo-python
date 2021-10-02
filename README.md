@@ -1,1 +1,1 @@
-# Hallo-python
+# School assignment
